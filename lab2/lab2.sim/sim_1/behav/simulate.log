@@ -1,0 +1,72 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+Starting simulation
+0	inputs= 0	en=0	dir=0	outputs= 0	cout=0
+2	inputs= 1	en=0	dir=0	outputs= 1	cout=0
+4	inputs= 2	en=0	dir=0	outputs= 2	cout=0
+6	inputs= 3	en=0	dir=0	outputs= 3	cout=0
+8	inputs= 4	en=0	dir=0	outputs= 4	cout=0
+10	inputs= 5	en=0	dir=0	outputs= 5	cout=0
+12	inputs= 6	en=0	dir=0	outputs= 6	cout=0
+14	inputs= 7	en=0	dir=0	outputs= 7	cout=0
+16	inputs= 8	en=0	dir=0	outputs= 8	cout=0
+18	inputs= 9	en=0	dir=0	outputs= 9	cout=0
+20	inputs=10	en=0	dir=0	outputs=10	cout=0
+22	inputs=11	en=0	dir=0	outputs=11	cout=0
+24	inputs=12	en=0	dir=0	outputs=12	cout=0
+26	inputs=13	en=0	dir=0	outputs=13	cout=0
+28	inputs=14	en=0	dir=0	outputs=14	cout=0
+30	inputs=15	en=0	dir=0	outputs=15	cout=0
+32	inputs= 0	en=1	dir=0	outputs= 9	cout=1
+34	inputs= 1	en=1	dir=0	outputs= 0	cout=0
+36	inputs= 2	en=1	dir=0	outputs= 1	cout=0
+38	inputs= 3	en=1	dir=0	outputs= 2	cout=0
+40	inputs= 4	en=1	dir=0	outputs= 3	cout=0
+42	inputs= 5	en=1	dir=0	outputs= 4	cout=0
+44	inputs= 6	en=1	dir=0	outputs= 5	cout=0
+46	inputs= 7	en=1	dir=0	outputs= 6	cout=0
+48	inputs= 8	en=1	dir=0	outputs= 7	cout=0
+50	inputs= 9	en=1	dir=0	outputs= 8	cout=0
+52	inputs=10	en=1	dir=0	outputs= 0	cout=0
+54	inputs=11	en=1	dir=0	outputs= 0	cout=0
+56	inputs=12	en=1	dir=0	outputs= 0	cout=0
+58	inputs=13	en=1	dir=0	outputs= 0	cout=0
+60	inputs=14	en=1	dir=0	outputs= 0	cout=0
+62	inputs=15	en=1	dir=0	outputs= 0	cout=0
+64	inputs= 0	en=1	dir=1	outputs= 1	cout=0
+66	inputs= 1	en=1	dir=1	outputs= 2	cout=0
+68	inputs= 2	en=1	dir=1	outputs= 3	cout=0
+70	inputs= 3	en=1	dir=1	outputs= 4	cout=0
+72	inputs= 4	en=1	dir=1	outputs= 5	cout=0
+74	inputs= 5	en=1	dir=1	outputs= 6	cout=0
+76	inputs= 6	en=1	dir=1	outputs= 7	cout=0
+78	inputs= 7	en=1	dir=1	outputs= 8	cout=0
+80	inputs= 8	en=1	dir=1	outputs= 9	cout=0
+82	inputs= 9	en=1	dir=1	outputs= 0	cout=1
+84	inputs=10	en=1	dir=1	outputs= 0	cout=0
+86	inputs=11	en=1	dir=1	outputs= 0	cout=0
+88	inputs=12	en=1	dir=1	outputs= 0	cout=0
+90	inputs=13	en=1	dir=1	outputs= 0	cout=0
+92	inputs=14	en=1	dir=1	outputs= 0	cout=0
+94	inputs=15	en=1	dir=1	outputs= 0	cout=0
+$finish called at time : 96 ns : File "D:/anny/Nthu_10601/HardwareDesign/lab2/lab2.srcs/sim_1/imports/lab2/lab2_1_t.v" Line 41
+, cout : 0
+  430ns : en : 1, dir : 1, preBCD :  2, BCD :  3, cout : 0
+  435ns : en : 1, dir : 1, preBCD :  3, BCD :  3, cout : 0
+  440ns : en : 1, dir : 1, preBCD :  3, BCD :  4, cout : 0
+  445ns : en : 1, dir : 1, preBCD :  4, BCD :  4, cout : 0
+  450ns : en : 1, dir : 1, preBCD :  4, BCD :  5, cout : 0
+  455ns : en : 1, dir : 1, preBCD :  5, BCD :  5, cout : 0
+  460ns : en : 1, dir : 1, preBCD :  5, BCD :  6, cout : 0
+  465ns : en : 1, dir : 1, preBCD :  6, BCD :  6, cout : 0
+  470ns : en : 1, dir : 1, preBCD :  6, BCD :  7, cout : 0
+  475ns : en : 1, dir : 1, preBCD :  7, BCD :  7, cout : 0
+  480ns : en : 1, dir : 1, preBCD :  7, BCD :  8, cout : 0
+  485ns : en : 1, dir : 1, preBCD :  8, BCD :  8, cout : 0
+  490ns : en : 1, dir : 1, preBCD :  8, BCD :  9, cout : 1
+  495ns : en : 1, dir : 1, preBCD :  9, BCD :  9, cout : 1
+  500ns : en : 1, dir : 1, preBCD :  9, BCD :  0, cout : 0
+-------------------------
+     -----[PASS]-----     
+-------------------------
+$finish called at time : 505 ns : File "D:/anny/Nthu_10601/HardwareDesign/lab2/lab2.srcs/sim_1/imports/Downloads/lab2_2_t.v" Line 38

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu Jul  6 15:16:19 2017
+# Process ID: 9684
+# Current directory: D:/anny/Nthu_10601/HardwareDesign/lab3/lab3.runs/impl_1
+# Command line: vivado.exe -log lab3_1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab3_1.tcl -notrace
+# Log file: D:/anny/Nthu_10601/HardwareDesign/lab3/lab3.runs/impl_1/lab3_1.vdi
+# Journal file: D:/anny/Nthu_10601/HardwareDesign/lab3/lab3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source lab3_1.tcl -notrace
